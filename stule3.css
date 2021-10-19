@@ -1,67 +1,85 @@
 .box{
-    width: 550px;
-    height: 150px;
-    background-color: maroon;
+    width: 800px;
+    height: 200px;
+    background-color: red;
 }
 .box2 {
-    width: 550px;
-    height: 150px;
-    background-color: rgb(0, 139, 30);
+    width: 800px;
+    height: 200px;
+    background-color: green;
 }
 .box3 {
-    width: 550px;
-    height: 150px;
-    background-color: rgb(0, 59, 221);
-    
+    width: 800px;
+    height: 200px;
+    background-color: blue ;
+   }
+   .div {
+       padding: 20px;
+   }
+   .box4 {
+    width: 300px;
+    height: 200px;
+    background-color: red;
+    float: left;
+   }
+   .box5 {
+    width: 300px;
+    height: 200px;
+    background-color: green;
+    float: left;
+   }
+   .box6 {
+    width: 300px;
+    height: 200px;
+    background-color: blue;
+    float: left;
+   }
+   .father {
+    border: 20px solid white ;
+    }
+   .box7 {
+    width: 900px;
+    height: 200px;
+    background-color: yellow;
+    float: left;
+   }
+   .box8 {
+    width: 450px;
+    height: 200px;
+    background-color: grey;
+    float: left;
+   }
+   .box9{
+    width: 450px;
+    height: 200px;
+    background-color: black;
+    float: left;
+   }
+.fahter4 {
+    float: left;
 }
-.div{
-    padding: 15px;
- }
- .box4{
- width: 50px;
- height: 50px;
- background-color: maroon;
- float: left;
+.father5 {
+    border: 20px solid rgb(208, 235, 168) ;
+    float: left;
 }
-.box6 {
-    width: 50px;
- height: 50px;
- background-color: rgb(0, 59, 221); 
- float: left;
+.box10 {
+    width: 400px;
+    height: 200px;
+    background-color: red;
+    float: left;
 }
-.box5 {
-    width: 50px;
- height: 50px;
- background-color: rgb(0, 139, 30);
- float: left;
+.box11 {
+    width: 400px;
+    height: 200px;
+    background-color: green;
+    float: left;
+}
+.box12 {
+    width: 400px;
+    height: 200px;
+    background-color: blue;
+    float: left;
 }
 
-    
-
-.father {
-    border: 15px solid white ;
-}
-.box7 {
-    width: 250px;
-    height: 100px;
- background-color: rgb(173, 199, 27);
-
-}
-.box8 {
-    width: 150px;
-    height: 50px;
-background-color: rgb(97, 97, 97);
-float: left;
-}
-.box9 {
-    width: 150px;
-    height: 50px;
-background-color: rgb(0, 0, 0);
- float: left;
-}
-.father2 {
-    width: 200px;
-    height: 100px;
-}
 
 
